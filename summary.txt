@@ -1,0 +1,13 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+    I chose Python and Pandas because I'm very familiar with using them for data manipulation on .csv files. I knew that sorting the data would be relatively easy
+using Pandas and that I could easily read in .csv files and clean the data to manipulate it. 
+
+2. What are the advantages and disadvantages of your solution?
+    The advantage of my solution is that it is very easy to read and understand. The disadvantage is that it doesn't directly manipulate the data in the .csv file.
+This could also be an advantage though because it doesn't change the original data. If we wanted to update the data after spending the points I could just remove all the rows
+that I did not get to spend points on.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+    My favorite personal project so far was the lovebox clone that I made. It was really difficult going into it as I had no experience with hardware and I had to learn that
+as I went along but it was also really rewarding to learn about. I also enjoyed the challenge of working on C code that had to be more efficient due to running on an Arduino.
+It really made me think a lot about not only how I coded for efficiency in that project but all projects after that. It really opened my eyes to how inefficient so much code is.
